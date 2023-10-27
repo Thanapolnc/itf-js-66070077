@@ -20,7 +20,7 @@ body {
 
 .on-hover {
     text-decoration: none;
-    position: relative;
+    color: black;
 }
 
 .on-hover:hover {
